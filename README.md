@@ -2,7 +2,7 @@
 
 An intelligent content generation tool that helps creators, influencers, and marketers generate high-quality posts based on their past writing style.
 
-<img src="resources/tool.jpg" alt="Tool Screenshot" />
+<img src="resources/demo.jpg" alt="Tool Screenshot" />
 
 ## ✨ Overview
 
